@@ -1,0 +1,94 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.nav-link{
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: blue;
+    font-weight: 750;
+    font-size: 21px;
+}
+
+
+
+body{
+    border: 5px solid rgb(70, 0, 12);
+    padding: 0%;
+    margin: 0%;
+}
+
+#logo{
+    border: 2px solid black;
+    border-radius: 45%;
+   width: 100px;
+}
+
+#main_name1{
+    color: rgb(22, 25, 219);
+    font-weight: 750;
+}
+#main_name2{
+    color: rgb(255, 255, 255);
+    font-weight: 750;
+}
+
+#navbar-example2{
+    background-color: rgb(132, 132, 134);
+}
+
+#heading-text{
+    font-weight: 900;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+    padding-top: 11%;
+}
+
+
+#home-div{
+    height: 85vh;
+    background-color: rgba(0, 255, 21, 0.911);
+}
+
+.main-box{
+    padding-top: 5%;
+    /* height: 100vh; */
+}
+.subheading-text{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.skills-btn{
+    background-color: wheat;
+    border: 1px solid black;
+}
+
+#scroll-link , #scroll-link2{
+    background-color: turquoise;
+    border: 1px solid black;
+    width: 105px;
+    border-radius: 10px;
+}
+
+/* .carousel-inner {
+    height: 100%;
+    
+  } */
+  .social-icons{
+    text-decoration: none;
+  }
+
+  .social-icons img{
+    width: 45px;
+    padding-left: 10px;
+  }
+
+
